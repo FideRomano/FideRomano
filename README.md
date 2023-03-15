@@ -41,6 +41,6 @@ diseño visual de material
 ### No dudes en contactarme! 
 Juntos podemos realizar un gran proyecto que cambie la vida de miles de personas
 
-[Linkedin](https://www.linkedin.com/in/fidel-romano//)
+[Linkedin](https://www.linkedin.com/in/fidel-romano/)
 
 Correo: fidel.romano.2021@gmail.com
