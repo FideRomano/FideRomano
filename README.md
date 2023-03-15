@@ -1,13 +1,12 @@
- # Hola! Mi nombre es César Yannick
- ### También conocido como Metffan en GitHub 
+ # Hola! Mi nombre es Fidel Romano
+ ### También conocido como FideRomano en GitHub 
  
 
 ## ¿Quién soy? 
 Soy un **Programador _Fullstack_** orientado al diseño ***Front-end*** y creación
 de material visual.
 
-Desde que tengo 12 años me ha interesado el mundo de la programación. Mi primer Lenguaje
-fue **Python**. Sin duda una de las experiencias más motivadoras fue mi acercamiento al código.
+Desde chico tengo particular interes por el **funcionamiento** de las cosas. Hoy en dia, esto ha evolucionado en una constante busqueda por optimizar el trabajo y encontrar soluciones a problemas. Ademas, mis experiencias como **asistente de enseñanza** me han permitido desarrollar una mejora en mis competencias como _trabajo en equipo, comunicacion efectiva, escucha activa y liderazgo con equipos_ de hasta 30 personas
 
 ## ¿Qué hago?
 Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formación como 
@@ -42,6 +41,6 @@ diseño visual de material
 ### No dudes en contactarme! 
 Juntos podemos realizar un gran proyecto que cambie la vida de miles de personas
 
-[Linkedin](https://www.linkedin.com/in/cesar-yannick-fullstack-developer/)
+[Linkedin](https://www.linkedin.com/in/fidel-romano//)
 
-Correo: cesaryannickfullstack@gmail.com
+Correo: fidel.romano.2021@gmail.com
